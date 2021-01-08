@@ -1,5 +1,7 @@
 import pyttsx3
-import PyPDF2
+import os
+os.system('cls')
+
 speaker = pyttsx3.init()
 
 """u can change it
