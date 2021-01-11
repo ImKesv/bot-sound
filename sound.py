@@ -1,6 +1,6 @@
 import pyttsx3
 import os
-os.system('cls')
+os.system('cls') # tu make consol klin :v
 
 speaker = pyttsx3.init()
 
